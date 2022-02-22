@@ -1,4 +1,4 @@
-Rangkuman Materi Section 2
+# Rangkuman Materi Section 2
 A.Apa itu Versioning/Version Control
 B.Pengertian Git
 C.Mengoptimalkan Kolaborasi Development
