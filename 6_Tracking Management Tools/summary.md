@@ -8,7 +8,7 @@ Theory Answer
 <br>6.Membuat issue bertipe bugs saat ditemukan ada yang tidak sesuai dengan kriteria testing
 Memindahkan fitur yang berkaitan dengan bugs ke kolom “in progress”
 
-# Resume Materi
+# Resume Materi 
 - Jira
 <br>Jira adalah alat bantu yang bertujuan umutk pelacakan bugs,pelacakan issue dan manajaemen proyek
 
