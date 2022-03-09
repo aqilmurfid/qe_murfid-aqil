@@ -33,3 +33,6 @@ c.Basic Programming Java
 <br>c.conditional
 <br>d.unary
 etc.
+
+ Berikut hasil pengerjaan Basic Programming terlampir seperti berikut:
+ https://docs.google.com/document/d/1NU2g7dHzxvEKTnitzRB_tfuXoO_XiHy9wmViRAnXc1E/edit?usp=sharing
