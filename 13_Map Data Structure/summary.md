@@ -23,6 +23,33 @@ Untuk melakukan penghapusan salah satu dari value di ArrayList gunakan method re
          
         listProgram.clear();
 - HashMap
- <p align ="justify">Class HashMap merupakan class turunan dari class AbstractMap dan implementasi dari interface Map.HashMap adalah sebuah class yang berisi sekumpulan pasangan nilai (value) dan kunci (key).Nilai bisa dalam bentuk string, integer, boolean, float, double, dan objek. Sedangkan untuk key biasanya dalam bentuk string dan integer.HashMap bisa dibilang seperti Array asosiatif dalam Java.
-![image](https://user-images.githubusercontent.com/81450117/158132971-e3324e1d-438c-4dfc-9a33-c8efac4b2c5a.png)
+ <p align ="justify">Class HashMap merupakan class turunan dari class AbstractMap dan implementasi dari interface Map.HashMap adalah sebuah class yang berisi sekumpulan pasangan nilai (value) dan kunci (key).Nilai bisa dalam bentuk string, integer, boolean, float, double, dan objek. Sedangkan untuk key biasanya dalam bentuk string dan integer.HashMap bisa dibilang seperti Array asosiatif dalam Java.<br>
+(https://user-images.githubusercontent.com/81450117/158132971-e3324e1d-438c-4dfc-9a33-c8efac4b2c5a.png)
+<br>Cara Membuat HashMap
+<br>Sebelum bisa menggunakan HashMap, kita harus mengimpornya terlebih dahulu:
+
+        import java.util.HashMap;
+   
+<p align ="justify">Setelah itu baru kita bisa menggunakannya.
+Nah!, untuk menggunakan HashMap, kita harus membuat objeknya terlebih dahulu. Objek dari Hashmap dapat dibuat dengan kata kunci new.
+Namun, ada sedikit tambahan untuk menentukan tipe data untuk key dan value yang akan disimpan.<br>
+   ![image](https://user-images.githubusercontent.com/81450117/158142438-00a8f677-7ac3-4fe5-ad2d-fa21717984e0.png)
+   
+        HashMap<Integer, String> days = new HashMap<Integer,String>
+ Mengisi Nilai ke HashMap
+ <br>Tadi kita sudah membuat objek hashmap bernama days dengan tipe data:
+
+K (key): Integer
+ <br>V (value): String
+Untuk mengisi nilai ke objek days, kita dapat menggunakan method put seperti ini:
+ <br>days.put(1, "Minggu");
+ <br>days.put(2, "Senin");
+ <br>days.put(3, "Selasa");
+ <br>days.put(4, "Rabu");
+ <br>days.put(5, "Kamis");
+ <br>days.put(6, "Jum'at");
+ <br>days.put(7, "Sabtu");
+
+   Akhir Kata
+  <br> Hashmap kadang nanti akan banyak digunakan dalam pembuatan aplikasi. Karena itu, kamu harus memahaminya.
 
