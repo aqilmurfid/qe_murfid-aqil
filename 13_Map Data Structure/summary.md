@@ -54,4 +54,4 @@ Untuk mengisi nilai ke objek days, kita dapat menggunakan method put seperti ini
   <br> Hashmap kadang nanti akan banyak digunakan dalam pembuatan aplikasi. Karena itu, kamu harus memahaminya.
 
   
-  https://docs.google.com/document/d/1D-oBdIsF3YWvVNnl9yyoJ6egWokAgFbW5WQihiFO-Ss/edit?usp=sharing
+   https://docs.google.com/document/d/1GxBQl7CZZcC7a7qQPhvpXRB20ZTcy0zurjOQ35MUZcc/edit?usp=sharing
