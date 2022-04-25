@@ -1,12 +1,12 @@
 # Resume
-1) Create test plan 
+1) **Create test plan** 
 <br>Pada tahapan membuat apa saja metode yang ingin dipilih dengan cara:
 <br>a) HTTP request default
 <br>b) Get List Users
 <br>c) Post User
 <br>d) Tambahkan Response Assertion
 <br>e) Sebelum menjalankan test plan simpan terlebih dahulu dan simpan semua elemen listener dengan nama yang berbeda
-2) Menjalankan Test Run 
+2) **Menjalankan Test Run** 
 <br>Ketika kita sudah menjalankan tahapan test run ini makan akan keluar hasil yang bisa terdiri dari :
 <br>a) Summary Report
 <br>b) Aggregate Report
